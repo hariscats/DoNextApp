@@ -37,7 +37,7 @@ The application supports the following commands:
 - `view`: View all tasks.
 - `delete`: Delete a task. You will be prompted to enter the task ID.
 
-## Future Enhancements
+## Future Plans
 
 - **REST API**: Refactor the application to serve tasks over a RESTful API, enabling integration with frontend technologies and other systems.
 - **Database Integration**: Migrate from file-based persistence to a relational or NoSQL database for scalable and efficient data storage and retrieval.
